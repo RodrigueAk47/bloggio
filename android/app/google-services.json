@@ -1,0 +1,48 @@
+{
+    "project_info": {
+      "project_number": "565108462271",
+      "firebase_url": "https://ass-bloggio-default-rtdb.europe-west1.firebasedatabase.app",
+      "project_id": "ass-bloggio",
+      "storage_bucket": "ass-bloggio.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:565108462271:android:4b4d0b52d4ab900c2a2c0a",
+          "android_client_info": {
+            "package_name": "com.ass.bloggio"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "565108462271-u7o8eva21i2d22nejg6n8o1dsas526im.apps.googleusercontent.com",
+            "client_type": 1,
+            "android_info": {
+              "package_name": "com.ass.bloggio",
+              "certificate_hash": "1110aa19cb6066d7526996e1a64fd429ae5c5aed"
+            }
+          },
+          {
+            "client_id": "565108462271-vb2k19pabhd7cm62au7tugigagr4da1l.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyCVKH8t--WNDXov5hgNw_MWUD9OG7YNOZA"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "565108462271-vb2k19pabhd7cm62au7tugigagr4da1l.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
